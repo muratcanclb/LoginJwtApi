@@ -1,0 +1,11 @@
+D:\ApiProjects\ServerApi\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.deps.json
+D:\ApiProjects\ServerApi\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.dll
+D:\ApiProjects\ServerApi\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.pdb
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfoInputs.cache
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfo.cs
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.csproj.CoreCompileInputs.cache
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.dll
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\refint\SharedClassLibrary.dll
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.pdb
+D:\ApiProjects\ServerApi\SharedClassLibrary\obj\Debug\net8.0\ref\SharedClassLibrary.dll
